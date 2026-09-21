@@ -1,0 +1,29 @@
+# Original and processed databases
+*.csv
+*.csv.gz
+
+# Generated Excel workbooks
+*.xlsx
+*.xls
+
+# Generated folders
+carpeta_autoridades/
+excel_autoridades/
+bases_resumen/
+
+# Python temporary files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+desktop.ini
